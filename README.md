@@ -1,5 +1,5 @@
-# WGTIK_2021
-Base code for personal website exercise for WGTIK 2021
+# WGTIK_2022
+*Personal Website Of Daffa Afia Rizfazka(1301213215)*
 
-example result:
+## Website
 [https://adf-telkomuniv.github.io/WGTIK_2021/](https://adf-telkomuniv.github.io/WGTIK_2021/)
