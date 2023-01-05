@@ -1,4 +1,4 @@
-# WGTIK_2022
+# WGTIK_2023
 If you have advantages in your current surroundings, just remember one thing
 
 *WITH GREAT KNOWLEDGES, COMES GREAT OPPORTUNITY*
