@@ -1,5 +1,7 @@
 # WGTIK_2022
-*Personal Website Of Daffa Afia Rizfazka*
+If you have advantages in your current surroundings, just remember one thing
+
+*WITH GREAT KNOWLEDGES, COMES GREAT OPPORTUNITY*
 
 ## Identity
 - Daffa Afia Rizfazka
